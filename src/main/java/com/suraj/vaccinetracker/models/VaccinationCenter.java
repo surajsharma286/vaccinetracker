@@ -1,2 +1,4 @@
-package com.suraj.vaccinetracker.models;public class VaccinationCenter {
+package com.suraj.vaccinetracker.models;
+
+public class VaccinationCenter {
 }
